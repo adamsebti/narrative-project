@@ -1,0 +1,5 @@
+
+env/.Python
+*.csh
+env/bin/flask
+env/bin/python2
